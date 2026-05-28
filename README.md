@@ -1,17 +1,22 @@
 # Hi, I'm Aparajitha Shree 👋
 
-**Generative AI Engineer & Data Analyst** | Building RAG pipelines, LLM systems, and AI governance frameworks that actually work.
+**AI Governance Practitioner & Data Analyst** | Building governance frameworks, 
+LLM systems, and data pipelines that are responsible and production-ready.
 
-📍 Dublin, Ireland | 🎓 MSc Data Analytics @ NCI | 🤖 AI Governance Practitioner @ Orcawise
+📍 Dublin, Ireland | 🎓 MSc Data Analytics @ NCI | 🏛️ AI Governance Practitioner @ Orcawise
 
 ---
 
-## What I build
+## What I do
 
-- 🧠 **RAG Pipelines & LLM Systems** — document knowledge bases, prompt architectures, LLM evaluation & safety testing
-- 🏛️ **AI Governance Frameworks** — EU AI Act aligned, ISO/IEC 42001, regulator-ready evidence packs
-- 🔁 **Autonomous AI Workflows** — self-healing data pipelines, iterative self-evaluation loops
-- 📊 **End-to-End ETL** — Python → MongoDB → PostgreSQL, real government datasets at scale
+- 🏛️ **AI Governance** — EU AI Act aligned frameworks, ISO/IEC 42001, 
+regulator-ready evidence packs, internal audits
+- 🧠 **LLM Engineering** — Prompt architecture, LLM evaluation, AI safety testing, 
+OpenAI & Claude APIs
+- 🔁 **Autonomous AI Workflows** — Self-healing data pipelines, 
+multi-LLM benchmarking, self-evaluation loops
+- 📊 **End-to-End ETL** — Python → MongoDB → PostgreSQL, 
+real government datasets at scale
 - 📈 **Interactive Dashboards** — Plotly Dash, Tableau, 80k+ record visualisations
 
 ---
@@ -28,8 +33,9 @@
 
 ## Tech Stack
 
-**AI / LLMs**
-`LLM Engineering` `RAG Pipelines` `Prompt Architecture` `LLM Evaluation` `OpenAI API` `Claude API` `Vertex AI`
+**AI / Governance**
+`AI Governance` `EU AI Act` `ISO/IEC 42001` `LLM Evaluation` 
+`Prompt Architecture` `AI Safety Testing` `OpenAI API` `Claude API` `Vertex AI`
 
 **Data & ML**
 `Python` `Pandas` `NumPy` `Scikit-learn` `Statistical Analysis` `EDA`
@@ -38,7 +44,7 @@
 `PostgreSQL` `MongoDB Atlas` `Oracle Cloud` `REST APIs`
 
 **Visualisation**
-`Plotly Dash` `Tableau` `Matplotlib`
+`Plotly Dash` `Tableau` `Matplotlib` `MS Excel`
 
 ---
 
@@ -48,6 +54,7 @@
 - 🤖 Introduction to Generative AI — Google
 - 📊 Data Visualisation with Tableau — Great Learning
 - 🗄️ SQL for Data Science — Great Learning
+- 🌐 AI for Work and Life — UNF
 
 ---
 
